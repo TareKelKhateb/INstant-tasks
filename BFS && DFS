@@ -1,0 +1,20 @@
+DFS 
+Depth First Search, is an edge-based technique. It uses the Stack data structure and performs two stages,
+first visited vertices are pushed into the stack, and second if there are no vertices then visited vertices are popped.
+
+how"?
+Start by putting any one of the graph's vertices on top of a stack.
+Take the top item of the stack and add it to the visited list.
+Create a list of that vertex's adjacent nodes. Add the ones which aren't in the visited list to the top of the stack.
+Keep repeating steps 2 and 3 until the stack is empty.
+
+--------------------------------------------------------------------------------------------------------------------
+BFS, Breadth-First Search, is a vertex-based technique for finding the shortest path in the graph.
+It uses a Queue data structure that follows first in first out. In BFS, one vertex is selected at a time
+when it is visited and marked then its adjacent are visited and stored in the queue. It is slower than DFS. 
+
+Start by putting any one of the graph's vertices at the back of a queue.
+Take the front item of the queue and add it to the visited list.
+Create a list of that vertex's adjacent nodes. Add the ones which aren't in the visited list to the back of the queue.
+Keep repeating steps 2 and 3 until the queue is empty.
+
