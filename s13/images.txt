@@ -1,0 +1,20 @@
+https://media.geeksforgeeks.org/gfg-gg-logo.svg
+https://media.geeksforgeeks.org/wp-content/cdn-uploads/write_ndi_20210312.svg
+https://media.geeksforgeeks.org/wp-content/cdn-uploads/practice_ndi_20210312.svg
+https://media.geeksforgeeks.org/wp-content/cdn-uploads/premium_ndi_20210312.svg
+https://media.geeksforgeeks.org/wp-content/cdn-uploads/jobs_ndi_20210312.svg
+https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220805183149/image16.png
+https://videocdn.geeksforgeeks.org/geeksforgeeks/Javascriptprogramtoreverseastring/JSprogramtoreverseastring20220907172641-small.png
+https://videocdn.geeksforgeeks.org/geeksforgeeks/CProgramtoCalculatethenPr/CProgramtoCalculatethenPr20220907121828-small.png
+https://videocdn.geeksforgeeks.org/geeksforgeeks/ConceptofVolumeinDocker/ConceptofVolumeinDocker20220907120451-small.png
+https://videocdn.geeksforgeeks.org/geeksforgeeks/HowtoFindMeanSquaredErrorMSEPythonProgram/calculateMeanSquarederrorusingpython20220906133733-small.png
+https://videocdn.geeksforgeeks.org/geeksforgeeks/CProgramtoFindtheLargestofThreeNumbers/CProgramtoFindtheLargestofThreeNumbers20220906125811-small.png
+https://videocdn.geeksforgeeks.org/geeksforgeeks/CProgramtoGetandDisplayIPAddress/CProgramtoGetandDisplayIPAddress20220906124934-small.png
+https://videocdn.geeksforgeeks.org/geeksforgeeks/Javascriptprogramtofindareaoftriangle/javascriptprogramtofindareaoftriangle20220905122507-small.png
+https://videocdn.geeksforgeeks.org/geeksforgeeks/CyrusBeckLineClippingAlgorithmComputerGraphics/Cyrusbecklineclipping20220906123401-small.png
+https://videocdn.geeksforgeeks.org/geeksforgeeks/HowtoConvertStringtoJSONinPython/Stringtojson20220905133530-small.png
+https://videocdn.geeksforgeeks.org/geeksforgeeks/Cprogramtofindtheareaandperimeterofrectangle/Cprogramtofindtheareaandperimeterofrectangle20220905113357-small.png
+https://media.geeksforgeeks.org/wp-content/post-ads-banner/2021-12-29-11-18-16-DSA_Ad_icon (1).png
+https://media.geeksforgeeks.org/wp-content/post-ads-banner/2021-12-29-16-30-50-CIP_Icon.png
+https://media.geeksforgeeks.org/wp-content/post-ads-banner/2022-07-27-23-40-15-image.png
+
